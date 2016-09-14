@@ -1,4 +1,4 @@
-module EmailCurl {
+module EmailCurl [system] {
     header "shim.h"
     link "curl"
     export *
